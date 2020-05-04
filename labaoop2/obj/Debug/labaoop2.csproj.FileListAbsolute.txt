@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\labaoop2\labaoop2\bin\Debug\labaoop2.exe.config
+C:\Users\User\source\repos\labaoop2\labaoop2\bin\Debug\labaoop2.exe
+C:\Users\User\source\repos\labaoop2\labaoop2\bin\Debug\labaoop2.pdb
+C:\Users\User\source\repos\labaoop2\labaoop2\obj\Debug\labaoop2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\labaoop2\labaoop2\obj\Debug\labaoop2.Form1.resources
+C:\Users\User\source\repos\labaoop2\labaoop2\obj\Debug\labaoop2.Properties.Resources.resources
+C:\Users\User\source\repos\labaoop2\labaoop2\obj\Debug\labaoop2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\labaoop2\labaoop2\obj\Debug\labaoop2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\labaoop2\labaoop2\obj\Debug\labaoop2.exe
+C:\Users\User\source\repos\labaoop2\labaoop2\obj\Debug\labaoop2.pdb
+C:\Users\User\Desktop\ВИКА СЕРИАЛИЗАТОРЫ\labaoop2\labaoop2\bin\Debug\labaoop2.exe.config
+C:\Users\User\Desktop\ВИКА СЕРИАЛИЗАТОРЫ\labaoop2\labaoop2\bin\Debug\labaoop2.exe
+C:\Users\User\Desktop\ВИКА СЕРИАЛИЗАТОРЫ\labaoop2\labaoop2\bin\Debug\labaoop2.pdb
+C:\Users\User\Desktop\ВИКА СЕРИАЛИЗАТОРЫ\labaoop2\labaoop2\obj\Debug\labaoop2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ВИКА СЕРИАЛИЗАТОРЫ\labaoop2\labaoop2\obj\Debug\labaoop2.Form1.resources
+C:\Users\User\Desktop\ВИКА СЕРИАЛИЗАТОРЫ\labaoop2\labaoop2\obj\Debug\labaoop2.Properties.Resources.resources
+C:\Users\User\Desktop\ВИКА СЕРИАЛИЗАТОРЫ\labaoop2\labaoop2\obj\Debug\labaoop2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ВИКА СЕРИАЛИЗАТОРЫ\labaoop2\labaoop2\obj\Debug\labaoop2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ВИКА СЕРИАЛИЗАТОРЫ\labaoop2\labaoop2\obj\Debug\labaoop2.exe
+C:\Users\User\Desktop\ВИКА СЕРИАЛИЗАТОРЫ\labaoop2\labaoop2\obj\Debug\labaoop2.pdb
